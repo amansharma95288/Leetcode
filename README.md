@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/amansharma95288/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/amansharma95288/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/amansharma95288/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amansharma95288/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2755-extra-characters-in-a-string](https://github.com/amansharma95288/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/amansharma95288/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/amansharma95288/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/amansharma95288/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amansharma95288/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amansharma95288/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amansharma95288/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
