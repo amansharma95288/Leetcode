@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/amansharma95288/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/amansharma95288/Leetcode/tree/master/0539-minimum-time-difference) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/amansharma95288/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/amansharma95288/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amansharma95288/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2755-extra-characters-in-a-string](https://github.com/amansharma95288/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -99,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/amansharma95288/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amansharma95288/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
